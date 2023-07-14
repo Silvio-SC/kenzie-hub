@@ -7,3 +7,7 @@ Tecnologias usadas: React, Styled Components, Axios, react-router-dom, consumo d
 
 Api: https://github.com/Kenzie-Academy-Brasil-Developers/kenziehub-api
 
+## Login
+Email: silvio@email.com
+
+Senha: 123456
